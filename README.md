@@ -2,8 +2,5 @@
 
 Mdr, fumé
 
-#fumé
-#fumé
-
 
 xxxxxxxxx
